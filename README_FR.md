@@ -1,4 +1,24 @@
+# TemplateCrafter
 
+Mod d’amélioration du Fabricateur vanilla avec un système simple de templates de craft.
+
+## Aperçu
+
+TemplateCrafter est un mod utilitaire léger conçu pour améliorer le Fabricateur vanilla en ajoutant un système de templates simple et pratique.
+
+Chaque Fabricateur peut stocker un seul template de recette, ce qui facilite le maintien de layouts de craft cohérents, évite les erreurs et améliore les workflows d’automatisation.
+
+## Fonctionnalités
+
+- Sauvegarde d’un seul template par Fabricateur
+- Suppression du template sauvegardé à tout moment
+- Affichage de la recette en ghost directement dans l’interface du Fabricateur
+- Désactivation automatique des slots inutilisés
+- Protection contre l’insertion d’items invalides
+- Support de l’insertion manuelle, du shift-clic et des hoppers
+- Persistance du template par Fabricateur
+- Compatible avec Minecraft `1.21.1`
+- Développement ciblant `Fabric`
 
 ## Rôle du dépôt public
 
