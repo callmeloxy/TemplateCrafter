@@ -8,7 +8,7 @@ Choose your language / Choisissez votre langue
 ## Quick Links / Liens rapides
 
 - [Issues](https://github.com/callmeloxy/TemplateCrafter/issues)
-- [Changelog Fabric]()
+- [Changelog Fabric](https://github.com/callmeloxy/TemplateCrafter/blob/main/fabric/CHANGELOG.md)
 - [Changelog Neoforge]() WIP
 - [Discord](https://discord.gg/NsNGDKxrYr)
 
