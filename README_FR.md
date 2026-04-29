@@ -40,12 +40,18 @@ Ce dépôt **ne contient pas** le code source.
 
 Si vous souhaitez héberger un serveur pour CobbleSpawnAlert Reforged tout en soutenant le projet, vous pouvez utiliser ce lien partenaire BisectHosting :
 
-- [BisectHosting](https://url-shortener.curseforge.com/2LxIY)
+- [BisectHosting](https://www.bisecthosting.com/curseforge?curseforge_project_id=1512911&dl=1)
 
 ## Téléchargements
 
 - [Modrinth]()
 - [CurseForge]()
+
+- ## Hébergement de serveur
+
+If you would like to host a server for CobbleSpawnAlert Reforged while supporting the project, you can use this BisectHosting partner link:
+
+- [BisectHosting](https://www.bisecthosting.com/curseforge?curseforge_project_id=1485115&dl=1)
 
 ## État du développement
 
