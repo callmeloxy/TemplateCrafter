@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.1.1
+
+### Summary
+
+Small hotfix improving the x1 template mode behavior for automation.
+
+### Fixed
+
+- Fixed x1 mode allowing transferred stacks larger than 1 item to enter template slots
+- Fixed storage or hopper insertion being able to place multiple items into a slot while x1 mode was active
+- Fixed automation edge cases where repeated template slots could receive uneven stack sizes
+
+### Improved
+
+- Improved x1 mode reliability for automated crafting setups
+- Improved strict per-slot item limiting when using template-based insertion
+
 ## 1.1.0
 
 ### Summary
